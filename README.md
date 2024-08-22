@@ -1,6 +1,3 @@
-Aquí te dejo un `README.md` más detallado, que incluye una explicación de lo que son CI y CD, y un paso a paso detallado:
-
----
 
 # React AWS CI/CD Example
 
